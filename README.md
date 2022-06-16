@@ -9,6 +9,7 @@ I am highly skilled at HTML, CSS, JavaScript and React. Apart from coding, I lik
 • ⚛️ REACT | REDUX  
 • 💻 HTML | CSS | JS  
 • ⚡ CHAKRA UI | MATERIAL UI | BOOTSTRAP
+• 🧮 Data Structures & Algorithms
 
 ## My work
 ### Boat-lifestyle clone
