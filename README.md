@@ -3,6 +3,8 @@
 # Hi there 👋, 
 I am Soumya Hakke, dedicated and efficient, aspiring full-stack developer currently learning MERN stack. Curious to explore and learn new things .
 
+I am highly skilled at HTML, CSS, JavaScript and React. Apart from coding, I like to play football as it helps improve my physical health and helps me stay positive and consistent towards my goals. Also, I love to travel and explore new places.
+
 ## Skills
 • ⚛️ REACT | REDUX  
 • 💻 HTML | CSS | JS  
